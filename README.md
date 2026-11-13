@@ -1,0 +1,3 @@
+# mypackage
+
+An example **package**.
