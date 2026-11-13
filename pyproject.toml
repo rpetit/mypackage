@@ -7,7 +7,9 @@ authors = [
     { name = "Romain Petit", email = "petitromain@protonmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "numpy>=2.5.4",
+]
 
 [project.scripts]
 mypackage = "mypackage:main"
